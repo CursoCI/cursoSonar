@@ -1,2 +1,0 @@
-# cursoSonar
-Curso Sonar
